@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "legals",
+  "info": {
+    "singularName": "legal",
+    "pluralName": "legals",
+    "displayName": "Legal"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "termsAndConditions": {
+      "type": "blocks"
+    },
+    "privacyAndPolitics": {
+      "type": "blocks"
+    }
+  }
+}
